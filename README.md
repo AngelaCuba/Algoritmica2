@@ -1,7 +1,6 @@
 
 # ALGORÍTMICA 
-# Angela Encarnacion Cuba Chuquimia 
-# Ingeniería de Sistemas Computacionales - UPB 
+ Ingeniería de Sistemas Computacionales - UPB 
 
 # Capítulo 1: Estructura de Datos
 
